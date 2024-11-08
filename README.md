@@ -1,6 +1,8 @@
 ## Hi there, I am rajkp10, but you can call me Raj 👋
 
+<!--
 <p><a href="https://rajpatel-portfolio.netlify.app/" target="_blank"><img src="https://github.com/rajkp10/rajkp10/assets/96880670/ee0208da-13b2-45d1-b092-c9ff8aa672d7" alt="Raj Patel" /></a></p>
+-->
 
 ## :email: Find me on
 
