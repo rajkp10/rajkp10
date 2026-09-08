@@ -52,6 +52,7 @@
 <code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 -->
 
+<!--
 ## :star: Highlight Repositories
 
 <div>
@@ -67,6 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkp10&langs_count=8&theme=transparent&layout=donut" alt="Top Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=rajkp10&show_icons=true&rank_icon=github&show=prs_merged&theme=transparent" alt="GitHub Stats" />
 </div>
+-->
 
 <!--
 <div>
