@@ -7,7 +7,7 @@
 ## :email: Find me on
 
 <div>
-  <a href="https://rajpatel-portfolio.netlify.app/"><img src="https://img.shields.io/badge/raj_patel-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/raj_patel-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:patelraj10401@gmail.com"><img src="https://img.shields.io/badge/patelraj10401@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/raj-patel-160711244/"><img src="https://img.shields.io/badge/raj_patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
